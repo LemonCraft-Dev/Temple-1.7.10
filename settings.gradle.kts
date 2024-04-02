@@ -14,4 +14,4 @@ pluginManagement {
     }
 }
 
-rootProject.name = "Minecraft 1.7.10"
+rootProject.name = "Minecraft-1.7.10"
