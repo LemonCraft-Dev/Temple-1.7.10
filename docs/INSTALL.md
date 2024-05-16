@@ -1,7 +1,7 @@
 # Setup in IntelliJ Idea
 1. Download and install JDK 8: [Liberica JDK](https://github.com/bell-sw/Liberica/releases)
 2. Set `JAVA_HOME` variable: [Baelbung](https://www.baeldung.com/java-home-on-windows-mac-os-x-linux) / [Atlassian](https://confluence.atlassian.com/doc/setting-the-java_home-variable-in-windows-8895.html)
-3. Edit `gradle.propetries` and `settings.gradle.kts` for yourself.
+3. Edit `gradle.properties` and `settings.gradle.kts` for yourself.
 4. Run `gradlew setupDecompWorkspace idea` in command line.
 5. Open `ProjectName.ipr` generated file.
 6. In notification press `Load Gradle Project` -> `Trust Project`.
